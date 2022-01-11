@@ -1,1 +1,1 @@
-# The repository is dedicated to host a site with github
+#The repository is dedicated to host a site with github
